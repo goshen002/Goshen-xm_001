@@ -1,0 +1,6 @@
+{
+  "name": "Goshen XM",
+  "description": "Plateforme d'entreprise et communauté collaborative avec hiérarchie administrative (Admins 1, 2, 3), gestion des tâches, projets, forum d'entreprise, planning quotidien, tableur Google Sheets et intégration WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
